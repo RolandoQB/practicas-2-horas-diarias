@@ -19,5 +19,3 @@ prueba=practica()
 muestra = input("Introduce una muestra de números separados por comas: ")
 muestra = muestra.split(',')
 prueba.practica1(muestra)
-
-
